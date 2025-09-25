@@ -1,0 +1,9 @@
+resize_algorithm = bilinear
+
+
+hotspot_x = 0.44
+hotspot_y = 0.62
+
+define_override = help
+
+define_size = 0, question_arrow.svg

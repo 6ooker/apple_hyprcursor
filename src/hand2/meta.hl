@@ -1,0 +1,9 @@
+resize_algorithm = bilinear
+
+
+hotspot_x = 0.31
+hotspot_y = 0.19
+
+define_override = pointer
+
+define_size = 0, hand2.svg

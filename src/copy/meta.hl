@@ -1,0 +1,9 @@
+resize_algorithm = bilinear
+
+
+hotspot_x = 0.19
+hotspot_y = 0.06
+
+define_override = copy
+
+define_size = 0, copy.svg

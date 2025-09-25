@@ -1,0 +1,9 @@
+resize_algorithm = bilinear
+
+
+hotspot_x = 0.50
+hotspot_y = 0.50
+
+define_override = vertical_text
+
+define_size = 0, vertical-text.svg

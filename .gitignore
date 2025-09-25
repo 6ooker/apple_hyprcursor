@@ -1,0 +1,17 @@
+themes
+*hypr
+mappings.txt
+*.tar.xz
+ignoreme
+build
+out
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock

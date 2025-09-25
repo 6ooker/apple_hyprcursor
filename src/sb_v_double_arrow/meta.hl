@@ -1,0 +1,9 @@
+resize_algorithm = bilinear
+
+
+hotspot_x = 0.44
+hotspot_y = 0.44
+
+define_override = row_resize
+
+define_size = 0, sb_v_double_arrow.svg

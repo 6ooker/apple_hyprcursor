@@ -1,0 +1,9 @@
+resize_algorithm = bilinear
+
+
+hotspot_x = 0.44
+hotspot_y = 0.44
+
+define_override = crosshair
+
+define_size = 0, crosshair.svg

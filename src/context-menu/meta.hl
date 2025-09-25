@@ -1,0 +1,9 @@
+resize_algorithm = bilinear
+
+
+hotspot_x = 0.12
+hotspot_y = 0.12
+
+define_override = context_menu
+
+define_size = 0, context-menu.svg

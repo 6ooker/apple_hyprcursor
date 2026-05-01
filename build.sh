@@ -10,7 +10,7 @@ function show_help() {
   echo "  -f  --foreground  <hex-color>     Set foreground color"
   echo "  -k  --keepbuild                   Don't delete generated build directory"
   echo ""
-  echo "Example: ./build.sh -b '#000000' -f '#FFFFFF' -k"
+  echo "Example: ./build.sh -f '#000000' -b '#FFFFFF' -k"
 }
 
 if [ "$#" -eq 0 ]; then

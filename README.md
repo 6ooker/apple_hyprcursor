@@ -50,11 +50,11 @@ For more info see the [Hyprland wiki](https://wiki.hypr.land/Hypr-Ecosystem/hypr
 
 ### Quick Start
 
-1. Get [dependencies](https://github.com/6ooker/apple_hyprcursor#prerequisites)
+1. Get [dependencies](#prerequisites)
 2. `git clone https://github.com/6ooker/apple_hyprcursor`
 3. `cd apple_hyprcursor`
 4. `./build.sh`
-5. See [installation](https://github.com/6ooker/apple_hyprcursor#using-the-cursor-theme)
+5. See [installation](#using-the-cursor-theme)
 
 ### Changing color
 

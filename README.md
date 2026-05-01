@@ -40,11 +40,33 @@ Or via _CLI_:
 hyprctl setcursor macOS-hypr,28
 ```
 
-For more info see https://wiki.hypr.land/Configuring/Environment-variables/
+For more info see the [Hyprland wiki](https://wiki.hypr.land/Hypr-Ecosystem/hyprcursor/#hyprcursor-themes)
 
 ## Building from source
 
-_Coming soon_
+### Prerequisites
+
+- [Hyprcursor](https://github.com/hyprwm/hyprcursor#tools) >= 0.1.1
+
+### Quick Start
+
+1. Get [dependencies](https://github.com/6ooker/apple_hyprcursor#prerequisites)
+2. `git clone https://github.com/6ooker/apple_hyprcursor`
+3. `cd apple_hyprcursor`
+4. `./build.sh`
+5. See [installation](https://github.com/6ooker/apple_hyprcursor#using-the-cursor-theme)
+
+### Changing color
+
+The `build.sh` script provides two options for changing color:
+1. `-b`: Background color, replaces `#0000FF` in the SVG.
+2. `-f`: Foreground color, replaces `#00FF00` in the SVG.
+
+```bash
+./build.sh -b '<hex>' -f '<hex>'
+```
+
+No options will result in default, which is `#FFFFFF` for `-b` and `#000000` for `-f`.
 
 ## Credit
 

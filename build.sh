@@ -13,11 +13,6 @@ function show_help() {
   echo "Example: ./build.sh -f '#000000' -b '#FFFFFF' -k"
 }
 
-if [ "$#" -eq 0 ]; then
-  show_help
-  exit 1
-fi
-
 while [[ "$1" =~ ^- && ! "$1" == "--" ]]; do case $1 in
   -v | --version )
     echo "build script version: $version"

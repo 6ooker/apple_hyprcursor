@@ -10,6 +10,16 @@ All SVG files are from [_@ful1e5_](https://github.com/ful1e5)'s XCursor theme [h
 
 Download the latest release from the [Release Page](https://github.com/6ooker/apple_hyprcursor/releases).
 
+### Packages
+
+#### Arch Linux / AUR
+
+Arch Linux users can install from the [AUR](https://aur.archlinux.org/packages/apple_hyprcursor) via Paru, Yay or any other [AUR helper](https://wiki.archlinux.org/index.php/AUR_helpers).
+
+```bash
+paru -S apple_hyprcursor
+```
+
 ## Using the cursor theme
 
 **Installation:**

@@ -17,7 +17,8 @@ All SVG files are from [_@ful1e5_](https://github.com/ful1e5)'s XCursor theme [h
 
 - White (#FFFFFF) Foreground
 - Black (#000000) Background
-_Named macOS-hypr_white._
+
+_Named 'macOS-hypr_white' in the files._
 
 ## How to get it
 

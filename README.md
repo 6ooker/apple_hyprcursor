@@ -6,6 +6,19 @@ All SVG files are from [_@ful1e5_](https://github.com/ful1e5)'s XCursor theme [h
 
 ---
 
+## Colors
+
+### Default
+
+- Black (#000000) Foreground
+- White (#FFFFFF) Background
+
+### White
+
+- White (#FFFFFF) Foreground
+- Black (#000000) Background
+_Named macOS-hypr_white._
+
 ## How to get it
 
 Download the latest release from the [Release Page](https://github.com/6ooker/apple_hyprcursor/releases).
@@ -26,15 +39,15 @@ paru -S apple_hyprcursor
 
 ```bash
 tar -xvf macOS-hypr.tar.xz              # Unpack archive
-mv macOS-hypr ~/.local/share/icons/     # Install to local user
-sudo mv macOS-hypr /usr/share/icons/    # Install to all users
+mv macOS-hypr* ~/.local/share/icons/    # Install to local user
+sudo mv macOS-hypr* /usr/share/icons/   # Install to all users
 ```
 
 **Uninstallation:**
 
 ```bash
-rm -r ~/.local/share/icons/macOS-hypr   # Remove from local user
-sudo rm -r /usr/share/icons/macOS-hypr  # Remove from all users
+rm -r ~/.local/share/icons/macOS-hypr*  # Remove from local user
+sudo rm -r /usr/share/icons/macOS-hypr* # Remove from all users
 ```
 
 **Usage:**

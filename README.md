@@ -15,14 +15,16 @@ Download the latest release from the [Release Page](https://github.com/6ooker/ap
 **Installation:**
 
 ```bash
-tar -xvf macOS-hypr.tar.xz
-mv macOS-hypr ~/.local/share/icons/
+tar -xvf macOS-hypr.tar.xz              # Unpack archive
+mv macOS-hypr ~/.local/share/icons/     # Install to local user
+sudo mv macOS-hypr /usr/share/icons/    # Install to all users
 ```
 
 **Uninstallation:**
 
 ```bash
-rm -r ~/.local/share/icons/macOS-hypr
+rm -r ~/.local/share/icons/macOS-hypr   # Remove from local user
+sudo rm -r /usr/share/icons/macOS-hypr  # Remove from all users
 ```
 
 **Usage:**
